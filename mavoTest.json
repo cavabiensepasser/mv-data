@@ -1,4 +1,10 @@
 {
 	"firstName": "Lea",
-	"last_name": "la reine"
+	"last_name": "la reine",
+	"messages": [
+		{
+			"Qui": "ikzelf",
+			"txt": "min bericht\n"
+		}
+	]
 }
