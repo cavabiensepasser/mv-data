@@ -4,7 +4,11 @@
 	"messages": [
 		{
 			"Qui": "ikzelf",
-			"txt": "min bericht\n"
-		}
+			"txt": "min bericht\n",
+			"book": "een",
+			"date": "twee",
+			"version": "drie"
+		},
+		{}
 	]
 }
