@@ -1,10 +1,10 @@
 {
 	"books": [
 		{
-			"date": "Dat12/4/22e",
+			"date": "12/4/22",
 			"book": "uniform",
-			"langue": "Languefr",
-			"version": "A\""
+			"langue": "fr",
+			"version": "A"
 		},
 		{
 			"date": "11/4/22",
