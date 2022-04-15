@@ -3,6 +3,7 @@
 		{
 			"book": "Book",
 			"date": "Date",
+			"langue":"fr",
 			"version": "version"
 		},
 		{
