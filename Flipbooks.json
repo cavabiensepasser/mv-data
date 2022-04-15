@@ -5,6 +5,13 @@
 			"book": "uniform",
 			"langue": "Languefr",
 			"version": "A\""
-		}
+		},
+		{
+			"date": "11/4/22",
+			"book": "Uniform",
+			"langue": "en",
+			"version": "B1"
+		},
+		{}
 	]
 }
